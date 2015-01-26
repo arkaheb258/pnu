@@ -1,0 +1,29 @@
+{
+  "name": "pnu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "mssql": "^1.3.0",
+    "excel4node": "^0.1.7",
+    "msexcel-builder": "^0.0.2",
+    "xlsx": "^0.7.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arkaheb258/pnu"
+  },
+  "keywords": [
+    "pnu"
+  ],
+  "author": "AH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arkaheb258/pnu/issues"
+  },
+  "homepage": "https://github.com/arkaheb258/pnu"
+}
